@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716097932007",
+    "project_id": "huge-clock-digital",
+    "storage_bucket": "huge-clock-digital.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716097932007:android:634d2366ea85ab679cf042",
+        "android_client_info": {
+          "package_name": "com.hugeclock"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_kQf2dMc9ZKrLCv4BnO2ETQCYECab9VM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
